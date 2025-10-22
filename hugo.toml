@@ -1,4 +1,6 @@
 baseURL = 'https://lassenwirdas.github.io/Website/'
+relativeURLs = true
+canonifyURLs = true
 languageCode = 'en-us'
 title = 'Lasse Medla Webpage'
 theme = 'ananke'
