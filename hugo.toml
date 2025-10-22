@@ -1,4 +1,4 @@
-baseURL = 'http://lassenwirdas.github.io/Website/'
+baseURL = 'https://lassenwirdas.github.io/Website/'
 languageCode = 'en-us'
 title = 'Lasse Medla Webpage'
 theme = 'ananke'
