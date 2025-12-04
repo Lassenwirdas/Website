@@ -4,8 +4,6 @@ subtitle: "How a simple idea became a full-fledged project :rocket:"
 summary: From early sketches to countless iterations, this post tells the story of how this website came into being — through late nights, technical tangles, and the invaluable help of Tim (a.k.a. Skybertronic).
 date: 2023-12-01
 caption: "A glimpse behind the curtain — the origin story of the site."
-authors:
-  - Lasse Medla
 ---
 
 Every website has a beginning — a spark, a sketch, or maybe just a uni-assignment: *“Submit your progress in a blog on your own website”*  
