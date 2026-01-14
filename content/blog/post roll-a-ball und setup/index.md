@@ -3,8 +3,6 @@ title: The Start of the Unity Story
 subtitle: "From Unity setup to rolling that very first ball :video_game:"
 summary: A short look at how Unity 6.0 was set up, how the classic Roll-a-Ball tutorial got completed, and how the Meta Quest was prepared so the whole process can soon appear on YouTube — with surprisingly few issues along the way.
 date: 2025-12-04
-cardimage: unity_history_card.jpeg
-featureimage: unity_history_header.jpeg
 caption: "From first install to first roll — capturing the journey for YouTube."
 
 ---
