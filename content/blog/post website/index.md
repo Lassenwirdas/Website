@@ -16,12 +16,6 @@ That’s how it started. The idea for this specific Qubt site was born from a mi
 Back then, there was no clear plan — only an old tutorial and a handful of templates.  
 I  tried many of them, none worked. Deployment scripts broke. Pages refused to cooperate. And Hugo, as great as it is, seemed to enjoy throwing warning messages at the least convenient moments.
 
-- Missing brackets? Check.  
-- Misnamed asset folders? Absolutely.  
-- Pushing broken commits at 2 AM? More often than you’d think.
-
-{{< figArray subfolder="debug_screenshots" figCaption="When debugging became an art form :sweat_smile:" numCols=3 >}}
-
 ### Enter Tim, a.k.a. Skybertronic :zap:
 
 Just when the chaos peaked, Tim stepped in — or rather, *typed in* after hearing my post-lecture-complaints one too many times.  
@@ -29,9 +23,7 @@ Tim brought not just technical expertise but also calm guidance and a sense of h
 
 Thanks to his wizardry, the build worked for the first time and i could begin to implement my own remarks.
 
-### Lessons Learned (and Earned)
 
-The greatest takeaway? Progress is about **persistence** and community.  
 
 ### Looking Ahead
 
