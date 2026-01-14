@@ -2,7 +2,7 @@
 title: The History of this Site
 subtitle: "How a simple idea became a full-fledged project :rocket:"
 summary: From early sketches to countless iterations, this post tells the story of how this website came into being — through late nights, technical tangles, and the invaluable help of Tim (a.k.a. Skybertronic).
-date: 2023-12-01
+date: 2025-11-11
 caption: "A glimpse behind the curtain — the origin story of the site."
 ---
 
@@ -35,8 +35,8 @@ The greatest takeaway? Progress is about **persistence** and community.
 
 ### Looking Ahead
 
-The story isn’t over. The site continues to evolve — new features, more polish, even better performance.  
-And somewhere in the codebase, hidden between comments and commits, lives the shared memory of all those debugging marathons.
+The story isn’t over. The site continues to evolve with the progress in my Lecture and maybe also privately — new features (CV and project overviews) and more polish.  
+And somewhere in the codebase and the darkest parts of the internet, hidden between comments and commits, lives the shared memory of all those debugging marathons.
 
 **Cheers to the past, gratitude for the present, and excitement for what’s next.**  
 This site isn’t just built on code; it’s built on teamwork, determination, and a good dose of humor.  
