@@ -1,14 +1,38 @@
 ---
-title: Blog Post with Inline Images
-subtitle: "Blog post subtitle :zap:"
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-date: 2023-11-24
+title: The Start of the Unity Story
+subtitle: "From Unity setup to rolling that very first ball :video_game:"
+summary: A short look at how Unity 6.0 was set up, how the classic Roll-a-Ball tutorial got completed, and how the Meta Quest was prepared so the whole process can soon appear on YouTube — with surprisingly few issues along the way.
+date: 2025-12-04
+caption: "From first install to first roll — capturing the journey for YouTube."
 cardimage: photo1_card.jpeg
 featureimage: photo1.jpeg
-caption: Image caption
 authors:
-  - Christian: author.jpeg
+  - Lasse: author.jpeg
 ---
+
+Setting up Unity 6.0 and getting to that first playable prototype started with installing the latest Unity 6 release via Unity Hub and creating a fresh 3D project tailored for simple physics gameplay. Unity 6 focuses on improved rendering and performance, but for this journey the goal was simple: get a sphere rolling reliably across a flat plane without the editor complaining.
+
+​
+
+The base of the project followed the official Roll-a-Ball learning flow, which walks through creating a plane, adding a player sphere, and wiring up basic movement via a C# script. Colliders and rigidbodies turned the scene into an actual game environment, while the tutorial’s structure helped keep things organized when configuring input, camera angles, and pickup objects.
+
+​
+
+Once the core mechanics were working, the full Roll-a-Ball loop was completed: the player could move, collect items, and trigger simple UI feedback that signaled progress. The Unity 6 editor tools and updated workflows made iteration smoother, so there were no major crashes or catastrophic bugs, which made this run-through feel pleasantly uneventful compared with typical beginner projects.
+
+​
+
+In parallel, the Meta Quest headset was set up by installing the Meta Horizon mobile app, pairing the device, and walking through the on-headset instructions to configure Wi‑Fi and updates. With the headset recognized and ready, it can now be used alongside the PC setup to explore VR capture options or simply test how content might eventually feel in immersive space.
+
+​
+
+Right now, the recorded material of the Unity setup, Roll-a-Ball completion, and Meta Quest configuration is in the editing phase, being cut and arranged for an upcoming YouTube video. The focus of the edit is to highlight the clear steps, the smoothness of the process, and the surprisingly low number of issues, so viewers can see that getting started with Unity 6 and a Meta Quest is more approachable than it might first appear.
+
+
+
+
+
+
 Use the shortcode "figArray" to add images to your blog post. Add your images to a subfolder. Call the figArray shortcode using the following syntax:
 
 ```
