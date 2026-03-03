@@ -1,7 +1,7 @@
 ---
-title: Blog Post 3
+title: IVAR'26 - Project Summary
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-date: 2023-11-22
+date: 2026-03-03
 cardimage: photo3_card.jpeg
 featureimage: photo3.jpeg
 caption: "Image caption :tada:"

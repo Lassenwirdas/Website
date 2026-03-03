@@ -4,6 +4,7 @@ subtitle: "From the first Unity setup to rolling the ball :video_game:"
 summary: A short look at how Unity 6.0 was set up, how the classic Roll-a-Ball tutorial got completed, and how the Meta Quest link was prepared.
 date: 2025-12-04
 caption: "From first install to first roll"
+cardimage: photo1_card.png
 
 ---
 Setting up [Unity](https://unity.com/de) 6.0 is pretty straight-forward. Unity has a refreshingly well thought out [tutorial and guidence page](https://learn.unity.com/tutorial/start-learning-unity), from which everyone with a PC can get started easily.

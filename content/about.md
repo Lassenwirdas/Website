@@ -20,30 +20,30 @@ Zusammenarbeit.
 - 10/2025 – vsl. 10/2027 Masterstudium – Informatik
 Technische Universität Darmstadt
 Master of Science Informatik
-- {10/2024 - 03/2025 Studienbegleitendes Praktikum
+- 10/2024 - 03/2025 Studienbegleitendes Praktikum
 Softwareprojektmamagement
 Haupttätigkeiten:
     - Teilnahme an Teamgesprächen
     - Teilnahme an KoordinationstreƯen
-    - Evaluation der Gruppenfortschritte}
+    - Evaluation der Gruppenfortschritte
 - 10/2021 - 11/2025 Bachelorstudium – Informatik
 Technische Universität Darmstadt
 Thesis: „Algo mit LEGO®- Kindgerechte Algorithmik-Workshops für die
 Unterstufe“ (Note: 1,7)
 Bachelor of Science Informatik (Note: 2,46)
 ### Berufserfahrung
-- {02/2024 - 06/2025 Dozent & Kursentwickler - Digital Kolleg, Hasso-Plattner-Institut,
+- 02/2024 - 06/2025 Dozent & Kursentwickler - Digital Kolleg, Hasso-Plattner-Institut,
 Potsdam
 Haupttätigkeiten:
     - Konzeption, Vorbereitung, Durchführung und Dokumentation von digitalen Lerneinheiten (à 1,5h) für Schüler*innen ab Klasse 7; durchschnittlich ca. 20 Teilnehmende pro Einheit.
     - Vermittlung grundlegender Informatikinhalte (Python, Java, JavaScript, HTML/CSS, Git).
-    - Entwicklung eines Pilot-MOOC für die OpenHPI-Plattform zur Erschließung einer jüngeren Zielgruppe.}
-- {08/2021 fortlaufend IT-Administrator - Psychotherapiepraxis Medla,
+    - Entwicklung eines Pilot-MOOC für die OpenHPI-Plattform zur Erschließung einer jüngeren Zielgruppe.
+- 08/2021 fortlaufend IT-Administrator - Psychotherapiepraxis Medla,
 Ellscheid
 Hauptaufgaben:
     - Verantwortung für IT-Betrieb und Infrastruktur in einer psychotherapeutischen Einrichtung.
     - BeschaƯung, Installation und Pflege von Endgeräten, Peripherie und Netzwerkkomponenten.
-    - Einrichtung und Betreuung der Webhosting-Umgebung.}
+    - Einrichtung und Betreuung der Webhosting-Umgebung.
 ### Schulbildung
 2021 Geschwister-Scholl-Gymnasium, Daun
 Leistungskurse: Biologie, Chemie, Englisch
@@ -58,12 +58,13 @@ Weitere Qualifikationen
 - Klasse A2, B, L
 ### Technische Fähigkeiten (0 Grundlagen bis +++ Sehr Fortgeschritten)
 - ++ Python, Java, JavaScript, HTML/CSS
-- + Git & Versionskontrolle
-- ++Windows-Administration & MS365
+- \+ Git & Versionskontrolle
+- ++ Windows-Administration & MS365
 - 0 Netzwerke, VPN, KIM/ePA-Infrastruktur
-Fachliche Schwerpunkte (0 Grundlagen bis +++ Sehr Fortgeschritten)
++ \+ Unity
+### Fachliche Schwerpunkte (0 Grundlagen bis +++ Sehr Fortgeschritten)
 - 0 IT-Administration im Gesundheitswesen
-- + Softwareprojektmanagement
+- \+ Softwareprojektmanagement
 - +++ Digitale Bildung & Didaktik
 - ++ Prozessorganisation & Dokumentation
 - +++ Agile Methoden
