@@ -18,4 +18,4 @@ Colliders and rigidbodies turned the scene into an actual game environment, whil
 
 ​Right now, the recorded material of the Unity setup, Roll-a-Ball completion, and Meta Quest configuration is in the editing phase, being cut and arranged for an upcoming YouTube video. The focus of the edit is to highlight the clear steps, the smoothness of the process, and the surprisingly low number of issues, so viewers can see that getting started with Unity 6 and a Meta Quest is more approachable than it might first appear.
 
-Once finished, you can watch it on [my YouTube-Page](https://www.youtube.com/@lasse_has_trembling_aim)
+Once finished, you can watch it on [my YouTube-Page](https://youtu.be/NZGJ0mf4RJM)
