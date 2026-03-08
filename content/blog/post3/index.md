@@ -1,9 +1,7 @@
 ---
 title: IVAR'26 - Project Summary
-summary: A short summary on my IVAR'26 experienmce, what I learned, what I recommend and how I feel about the general concepts.
+summary: A short summary on my IVAR'26 experience, what I learned, what I recommend and how I feel about the general concepts.
 date: 2026-03-03
-cardimage: photo3_card.jpeg
-featureimage: photo3.jpeg
 caption: ":tada:"
 authors:
   - Lasse Medla: author.jpeg
