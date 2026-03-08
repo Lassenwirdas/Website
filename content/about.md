@@ -77,24 +77,24 @@ Weitere Qualifikationen
 - Diverse Sportlizenzen und Zertifikate ( DEV Toprope, DFB-Juniorcoach, Rettungsschwimmer, Jugendtrainiert Meisterschaften etc.)
 - Begeisterter Leser
 
-# English Version
+## English Version
 
 ## Short Profile:
 
 B.Sc. Computer Science, M.Sc. Computer Science student with a focus on IT administration, software project management, and digital education. Strong coordinator profile (AECdisc®), structured and reliable working style, as well as experience in the design and implementation of digital learning formats at the Hasso Plattner Institute. Practical experience in IT operations, process organization, and interdisciplinary collaboration.
 ### Studies
 
-    10/2025 – expected 10/2027 Master’s program – Computer Science
+- 10/2025 – expected 10/2027 Master’s program – Computer Science
     Technische Universität Darmstadt
     Master of Science in Computer Science
 
-    10/2024 – 03/2025 Accompanying Internship – Software Project Management
+- 10/2024 – 03/2025 Accompanying Internship – Software Project Management
     Main Tasks:
        - Participation in team meetings
        - Participation in coordination meetings
        - Evaluation of group progress
 
-    10/2021 – 11/2025 Bachelor’s program – Computer Science
+- 10/2021 – 11/2025 Bachelor’s program – Computer Science
     Technische Universität Darmstadt
     Thesis: “Algo mit LEGO® – Child-Oriented Algorithm Workshops for Lower Secondary Students” (Grade: 1.7)
     Bachelor of Science in Computer Science (Final Grade: 2.46)
