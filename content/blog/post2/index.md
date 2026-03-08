@@ -10,7 +10,7 @@ authors:
 ---
 
 The implementation process was unusual in the case, that we had to complement an existing project structure with our own ideas.
-The first steps of my jurney was the rudimentary conceptualisation -- see [Post IVAR'26 - Conceptualizing the desired Locomotion Techniques]({{< ref blog\post1\index.md>}}) for reference, before I tried to boot up the project for the first time. 
+The first steps of my jurney was the rudimentary conceptualisation -- see Post *IVAR'26 - Conceptualizing the desired Locomotion Techniques* for reference --, before I tried to boot up the project for the first time. 
 
 Doing that gave me a rude awakening: The general Meta-Structure was seemingly not compatible with the project structure anymore. So I was forced to redo the player logic and started implementing, hoping I could rewire the complete logic later. Subsequently running into more and more problems, and resorting more and more to external knowledge resources and AI, I came to the point where I started to desperately tried everything suggested without questioning it, ultimately ruining what I had so-far completely.
 
