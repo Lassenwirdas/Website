@@ -2,8 +2,6 @@
 title: IVAR'26 - Implementing the techniques
 summary: A summary of the implementation process, techniques, hurdles and the AI experience.
 date: 2026-02-01
-cardimage: photo2_card.jpeg
-featureimage: photo2.jpeg
 caption: ":tada:"
 authors:
   - Lasse Medla: author.jpeg

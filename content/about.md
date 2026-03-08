@@ -77,7 +77,7 @@ Weitere Qualifikationen
 - Diverse Sportlizenzen und Zertifikate ( DEV Toprope, DFB-Juniorcoach, Rettungsschwimmer, Jugendtrainiert Meisterschaften etc.)
 - Begeisterter Leser
 
-# Enlish Version
+# English Version
 
 ## Short Profile:
 
