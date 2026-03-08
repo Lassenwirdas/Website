@@ -10,7 +10,7 @@ authors:
 ---
 
 The implementation process was unusual in the case, that we had to complement an existing project structure with our own ideas.
-The first steps of my jurney was the rudimentary conceptualisation -- see [Post IVAR'26 - Conceptualizing the desired Locomotion Techniques]({{< ref C:\Users\lasse\.vscode\Website\Website\content\blog\post1\index.md>}}) for reference, before I tried to boot up the project for the first time. 
+The first steps of my jurney was the rudimentary conceptualisation -- see [Post IVAR'26 - Conceptualizing the desired Locomotion Techniques]({{< ref blog\post1\index.md>}}) for reference, before I tried to boot up the project for the first time. 
 
 Doing that gave me a rude awakening: The general Meta-Structure was seemingly not compatible with the project structure anymore. So I was forced to redo the player logic and started implementing, hoping I could rewire the complete logic later. Subsequently running into more and more problems, and resorting more and more to external knowledge resources and AI, I came to the point where I started to desperately tried everything suggested without questioning it, ultimately ruining what I had so-far completely.
 
@@ -37,4 +37,4 @@ The complete Chat-History of the Project can be found in the following Download-
 
 Note: As stated i mimicked a beginner, asking beginner questions, behaving like a beginner and not caring about typos etc.. Could you do better? Probably yes. Could you optimize that? Most definetly, but that was not the goal here and is rather subject to a future research Project.
 
-[^problem](The Problem was, that the legacy locomotion should have been the one to be altered into our desired technique and therefore all the dependencies were hardcoded into the technique. That rather unfortunate design led to my techniques being completely unattached from the parcour logic. Theoretically, that could be fixed with overhauling the dependencies and or redoing the legacy technique, but I saw it as an opportunity to force locomotion switches and deemed it acceptable.)
+[^problem]: The Problem was, that the legacy locomotion should have been the one to be altered into our desired technique and therefore all the dependencies were hardcoded into the technique. That rather unfortunate design led to my techniques being completely unattached from the parcour logic. Theoretically, that could be fixed with overhauling the dependencies and or redoing the legacy technique, but I saw it as an opportunity to force locomotion switches and deemed it acceptable.
