@@ -4,7 +4,6 @@ subtitle: "A plan? Yeah, Yeah, I have concepts of a plan"
 summary: A short look at the IVAR'26 Assignment and the brainstrorming process
 date: 2025-12-20
 caption: "Loading Idea ... "
-cardimage: photo1_card.png
 featureimage: photo1.jpeg
 authors:
   - Lasse: author.jpeg
