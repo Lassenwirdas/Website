@@ -16,6 +16,6 @@ Colliders and rigidbodies turned the scene into an actual game environment, whil
 
 ​In parallel, the Meta Quest headset was set up by installing the [Meta Horizon](https://horizon.meta.com/) mobile app, pairing the device, and walking through the on-headset instructions to configure Wi‑Fi and updates. With the headset recognized and ready, it can now be used alongside the PC setup to explore VR capture options or simply test how content might eventually feel in immersive space.
 
-​Right now, the recorded material of the Unity setup, Roll-a-Ball completion, and Meta Quest configuration is in the editing phase, being cut and arranged for an upcoming YouTube video. The focus of the edit is to highlight the clear steps, the smoothness of the process, and the surprisingly low number of issues, so viewers can see that getting started with Unity 6 and a Meta Quest is more approachable than it might first appear.
+​Right now, the recorded material of the Unity setup, Roll-a-Ball completion, and Meta Quest configuration is in the editing phase, being cut and arranged for an upcoming YouTube video. The focus of the edit is to show the entire implementation, the smoothness of the process, and the surprisingly low number of issues, so viewers can see that getting started with Unity 6 and a Meta Quest is more approachable than it might first appear.
 
-Once finished, you can watch it on [my YouTube-Page](https://youtu.be/NZGJ0mf4RJM)
+Once finished, you can watch it on [my YouTube-Page](https://youtu.be/NZGJ0mf4RJM). The entire Implementation, including the research and watching the unity tutorials took araounf 1.5h for the base game, and another 45min for the extra exercise of implementing an AI antagonist.

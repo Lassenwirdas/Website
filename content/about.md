@@ -70,7 +70,7 @@ Weitere Qualifikationen
 - +++ Agile Methoden
 ### Ehrenamtliche Tätigkeiten & Leitungsverantwortung
 - 04/2023 – 01/2025: Tätigkeit beim RSC Darmstadt, u. a. Bundesligatrainer.
-- 07/2022 – 12/2024: Museumsführer & Restaurator, Bahnwelten Kranichstein.
+- Seit 07/2022: Ehrenamtlicher Museumsführer & Restaurator, Bahnwelten Kranichstein.
 - Seit 2022: Stellvertretender KV Fin., JuLis CZV.
 ### Sonstiges
 - Diverse Sportlizenzen und Zertifikate ( DEV Toprope, DFB-Juniorcoach, Rettungsschwimmer, Jugendtrainiert Meisterschaften etc.)
