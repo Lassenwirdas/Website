@@ -8,7 +8,7 @@ authors:
 ---
 ### Download
 The Project is available on [GitHub](https://github.com/Lassenwirdas/).
-The .apk can be downloaded [here](Lassemotion_Lasse_Medla_II.zip).
+The .apk can be downloaded [here](/downloads/Lassemotion_Lasse_Medla_II.zip).
 
 ### Setup and Steering
 Install the .apk on your quest and boot up.
