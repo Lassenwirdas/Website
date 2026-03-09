@@ -7,8 +7,8 @@ authors:
   - Lasse Medla: author.jpeg
 ---
 ### Download
-The Project is available on [GitHub]().
-The .apk can be downloaded [here]().
+The Project is available on [GitHub](https://github.com/Lassenwirdas/).
+The .apk can be downloaded [here](Lassemotion_Lasse_MedlaII.zip).
 
 ### Setup and Steering
 Install the .apk on your quest and boot up.
