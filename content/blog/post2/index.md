@@ -30,8 +30,8 @@ While preparing the presentation and completing the Parcour I stumbled across an
 The walkthrough with the PresentationState of the Project can also be found on [YouTube](https://youtu.be/sv-bMEMf96g).
 
 The complete Chat-History of the Project can be found in the following Download-Links
-- [Chat1 herunterladen (PDF)](Chat1.pdf)
-- [Chat2 herunterladen (PDF)](Chat2.pdf)
+- [Chat1 (PDF)](Chat1.pdf)
+- [Chat2 (PDF)](Chat2.pdf)
 
 Note: As stated i mimicked a beginner, asking beginner questions, behaving like a beginner and not caring about typos etc.. Could you do better? Probably yes. Could you optimize that? Most definetly, but that was not the goal here and is rather subject to a future research Project.
 
