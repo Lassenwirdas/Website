@@ -19,3 +19,7 @@ The Brainstorming started immediately in class, interesting and unique ideas wit
 ## Core concepts
 I have no faith in my own programming skills, especially given a completely new environment, so I wanted an overlay, that enabled me to always fall back into the working legacy-techniques, if some of my own techniques would prove broken or buggy. Naturally I wanted to integrate every new technique seperately in closed environments, switching between them seamlessly through te menu.
 This created a whole lot of other difficulties, but thats a story for the implementation part.
+
+## Presentations
+
+During the lecture, each student had to perform a small Presentation on a VR Topic. Mine was about the Oculus Interaction SDK and can be found [here](https://youtu.be/GBATDjeFQC4).

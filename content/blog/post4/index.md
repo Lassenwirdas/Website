@@ -7,8 +7,8 @@ authors:
   - Lasse Medla: author.jpeg
 ---
 ### Download
-The Project is available on [GitHub](https://github.com/Lassenwirdas/).
-The .apk can be downloaded [here](/downloads/Lassemotion_Lasse_Medla_II.zip).
+The Project is available on [GitHub](https://github.com/Lassenwirdas/LassemotionVR).
+The .apk can be downloaded [here](https://drive.google.com/file/d/1V6CfN1PNE6udN6erPUuLb5xCzMF9QZ26/view?usp=drive_link).
 
 ### Setup and Steering
 Install the .apk on your quest and boot up.
