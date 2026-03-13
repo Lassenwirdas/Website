@@ -45,3 +45,11 @@ right joystick -> turret
 The hull steering is done with the controllers as levers. Press the grip buttons and imagine your controllers as levers, extending and contracting youre entire arms.
 
 
+### User Feedback
+The feedback was promising, though very mixed.
+With electronic gaming inexperienced people found the controls confusing and unintuitive, in contrast to probands with some experience, whose general feedback towards the control-logic was rather positive for they found it to be easily memorable.
+Likewise, probands with a lot of motion-picture experience struggled less with motion sickness and didn't find themselves lost in the parcour quite so often in contrast to people, that accompany such less often.
+The traverse-times of probands correlated with the homogenity of their experience, though "High-Scores" were to a point random, depending on the Interaction-Task(IT) RNG and the degree of meticulousness with it. "Speedrunners" were able to traverse the parcour with times around the three-minute-mark, sacrificing coin- and IT-scores for a quick finish time. Average runs panned out at around twice that time.
+
+### Future Work
+If someone was to build upon this foundation. I would recommend starting with a new technique to get a feel for the task, before tweaking physics ore rebasing the parcour logic for a more refined user experience.
