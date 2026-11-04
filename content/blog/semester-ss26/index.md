@@ -1,28 +1,34 @@
 ---
 title: "Summer Term 26 - Mix-Mal"
-subtitle: "Second semester, a team project and a lot of new tooling :art:"
-summary: An overview of my second Master's semester, centered around the team project Mix-Mal.
+subtitle: "Second semester, a two-person team and a serious game about mixing colors :art:"
+summary: An overview of my second Master's semester, centered around Mix-Mal, a serious game about color mixing that I built together with Ruben.
 date: 2026-04-13
 caption: "Semester 2 of the M.Sc."
 ---
 
-<!-- TODO: Präzisieren - Was ist Mix-Mal genau? Kurs/Kontext, Team, eigene Rolle, Tech-Stack, Ergebnis, Bilder/Screenshots -->
+<!-- TODO: Präzisieren - Kurs/Kontext, Zielgruppe, eigene Rolle, Tech-Stack, Ergebnis, Bilder/Screenshots -->
 
 ## The semester at a glance
 
-The summer term 2026 was my second semester in the Master's program. After a winter semester that was all about VR, this term shifted the focus towards working in a team on a larger, longer-running software project.
+The summer term 2026 was my second semester in the Master's program. After a winter semester that was all about VR, this term shifted the focus towards game design, learning goals and close collaboration in a small team.
 
 ## The main project: Mix-Mal
 
-The most important project of the semester was **Mix-Mal**, developed together with my fellow students. The source code lives on GitHub in the repository [rubenhussong/mix-mal](https://github.com/rubenhussong/mix-mal).
+The most important project of the semester was **Mix-Mal**, a two-person project I developed together with Ruben. The source code lives on GitHub in the repository [rubenhussong/mix-mal](https://github.com/rubenhussong/mix-mal).
 
 ### The idea
 
-*Placeholder:* What problem does Mix-Mal solve, and who is it for? This section will describe the core idea and how the project came about.
+Mix-Mal is a **serious game about color mixing**. Instead of explaining color theory with charts and definitions, the game lets players learn by doing: they combine colors, see what comes out, and gradually build an intuition for how mixing actually works.
+
+The name says it all - in German, *mix mal* is a casual "go on, mix it". The challenge of a serious game is to keep both sides in balance: it has to be fun enough that people want to keep playing, and the learning content has to be correct and understandable enough that they actually take something away from it.
+
+*Placeholder:* Who is the target group, which color model does the game use, and how did the idea come about?
 
 ### My role in the team
 
-*Placeholder:* Which parts did I work on, how did we split responsibilities, and how did we organize ourselves?
+With only two people on the team, there was little room for strict role separation - both of us touched design, implementation and testing.
+
+*Placeholder:* Which parts did I focus on, which did Ruben, and how did we organize ourselves?
 
 ### Technology
 
