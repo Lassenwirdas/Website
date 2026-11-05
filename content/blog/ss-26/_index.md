@@ -1,4 +1,6 @@
 ---
+aliases:
+  - /blog/semester-ss26/
 title: "Summer Term 26 - Mix-Mal"
 subtitle: "Second semester, a two-person team and a serious game about mixing colors :art:"
 summary: An overview of my second Master's semester, centered around Mix-Mal, a serious game about color mixing that I built together with Ruben.
